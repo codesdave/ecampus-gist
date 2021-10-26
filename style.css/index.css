@@ -1,0 +1,126 @@
+*{
+    margin: auto 0 auto 0;
+    text-align: left;
+}
+body{
+    background-color: #02014D;
+    background-image: url(../images/parallel-dark-shapes-abstract-background_79603-878.jpg);
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    background-repeat: repeat-x;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+header{
+    width: 960;
+    height: 85px;
+    background-color: grey;
+    padding: 40px;
+    margin-left: 40px;
+    background-color: blue;
+    
+}
+
+header h1{
+    float: left;
+    font-size: 43px;
+    padding: 20px 0 20px 0;
+    color: yellow;
+}
+
+header h2{
+    float: right;
+    font-size: 43px;
+    padding: 40px 20px 0 0;
+    color: yellow;
+}
+
+#container{
+    margin-left: 110px;
+    width: 999px;
+}
+
+ header h1 span.blue{
+    color: white;
+}
+
+header h2 span.white{
+    color: white;
+}
+
+#menu {
+    display: block;
+    float: left;
+    clear: both;
+    width: 960;
+    margin-left: 40px;
+    height: 54px;
+    background:yellow ;
+}
+#menu ul {
+    margin-left: auto;
+    list-style: none;
+    padding-top: 18px;
+    padding: 0;
+    width: 960px;
+
+
+}
+#menu li {
+    display: inline;
+    padding: 50px;
+    padding-top: 50px;
+    margin-left: 20px;
+    font-size: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+#left-section {
+    float: left;
+    clear: both;
+    margin-top: 5px;
+    border-radius: 10px;
+    background: lightseagreen;
+    font-size: 25px;
+    text-decoration: none;
+    
+    
+}
+
+#left-section ul li {
+    list-style: none;
+    padding: 20px;
+    text-decoration: none;
+    list-style: none;
+   
+
+
+}
+section{
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+   margin-top: 60px;
+   border-radius: 20px;
+  
+  
+   
+}
+#about-us{
+    color: red;
+   
+    margin-top: 10px;
+   padding-right: 30px;
+   padding-top: 10px;
+   font-size: large;
+   text-align: center;
+   
+}
+.text{
+    padding-top: 20px;
+}
